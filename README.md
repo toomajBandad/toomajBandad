@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Toomaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toomaj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toomaj&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toomaj&theme=radical)
-
----
 
 ## ✨ Fun Fact
 I believe that the sky is high—but even an elephant can fly.  
